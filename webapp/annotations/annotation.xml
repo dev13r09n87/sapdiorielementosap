@@ -66,6 +66,7 @@
                             <PropertyValue Property="Value" Path="UnitPrice" />
                             <PropertyValue Property="Label" String="{@i18n>unitPreice}"/>
                         </Record>
+                        
                     </Collection>
                 </Annotation>
             </Annotations>
